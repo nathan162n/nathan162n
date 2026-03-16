@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=react,godot,supabase,tailwind" alt="Skills" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CvmuloSky&theme=tokyonight&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan162n&theme=tokyonight&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -39,7 +39,7 @@
         <img src="https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap" alt="LeetCode Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=CvmuloSky&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nathan162n&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
