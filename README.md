@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/nathan162n?ext=heatmap" alt="LeetCode Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=nathan162n&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
