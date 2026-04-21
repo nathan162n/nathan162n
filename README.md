@@ -1,8 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:3B82F6&height=180&section=header" width="100%"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6272A4&center=true&vCenter=true&width=500&lines=Hola%2C+me+llamo+Nathan!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Hola%2C+me+llamo+Nathan!;Incoming+SCS+%40+CMU;Tesla+SWE+Intern;Aspiring+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">Incoming at School of Computer Science @ CMU | Tesla Software Engineering Intern</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Algorithms-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Full%20Stack-3B82F6?style=for-the-badge" />
+</p>
 
 <br>
 
@@ -37,33 +43,31 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
-
 <br>
 
 ## Stats
 
 <p>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan162n&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan162n&theme=tokyonight&hide_border=true" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan162n&langs_count=8&layout=compact&theme=transparent&title_color=22D3EE&text_color=ffffff&hide_border=true" />
+  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan162n&theme=transparent&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&hide_border=true" />
 </p>
 
 <p>
-  <img width="844" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan162n&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathan162n&bg_color=00000000&color=22D3EE&line=10B981&point=3B82F6&hide_border=true" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap&theme=nord" />
 </p>
 
 <br>
 
-## Profile Views
+## Currently
 
-![Visitor Count](https://profile-counter.glitch.me/nathan162n/count.svg)
+- Learning Data Structures and Algorithms
+- Analyzing patterns in voice
+- Grinding LeetCode
 
 <br>
 
-## Currently I'm:
-- Learning Data Structures and Algorithms 📚
-- Analyzing patterns in voice 🎙️
-- Grinding LeetCode (and losing) 💀
+![Visitor Count](https://komarev.com/ghpvc/?username=nathan162n&style=for-the-badge&color=10B981&label=PROFILE+VIEWS)
