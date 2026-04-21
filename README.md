@@ -52,7 +52,7 @@
 </p>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/nathan162n?ext=heatmap&theme=nord" />
+  <img src="https://leetcard.jacoblin.cool/nathannnguyen162?ext=heatmap&theme=nord" />
 </p>
 
 <br>
